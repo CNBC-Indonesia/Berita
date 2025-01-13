@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://cnbc-indonesia.github.io/Berita/sitemap.xml
